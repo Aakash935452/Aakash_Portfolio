@@ -29,7 +29,7 @@
     desc : 'used to perform basic calculation'
 },
 {
-    link : 'https://github.com/prince5607/Banking_System',
+    link : 'https://github.com/Aakash935452/Banking_System_',
     img : 'img/projectImg/internet-banking-vector.jpg',
     name : 'Banking System',
     desc : 'used to perform basic calculation'
