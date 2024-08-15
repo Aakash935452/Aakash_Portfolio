@@ -17,7 +17,7 @@
     desc : 'used to perform basic calculation'
 },
 {
-    link : 'https://prince5607.github.io/calculator/',
+    link : 'https://aakash935452.github.io/Calculator/',
     img : 'img/projectImg/istockphoto-544462430-1024x1024.jpg',
     name : 'Calculator',
     desc : 'used to perform basic calculation'
