@@ -1,17 +1,17 @@
  const projects  = [{
-    link : 'https://prince5607.github.io/Landing_page/',
+    link : '',
     img : 'img/projectImg/landing-page.png',
     name : 'Landing Page',
     desc : 'used to perform basic calculation'
 },
 {
-    link : 'https://github.com/prince5607/Online-Railway-Reservation',
+    link : '',
     img : 'img/projectImg/train-rail-logo.jpg',
     name : 'Railway Reseravation System',
     desc : 'used to perform basic calculation'
 },
 {
-    link : 'https://github.com/prince5607/Amazon-Clone-Frontend-',
+    link : '',
     img : 'img/projectImg/amazon.jpg',
     name : 'Amazon clone (Frontend)',
     desc : 'used to perform basic calculation'
